@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Projects - Unreal/onebitjam/Content/Levels/NewWorld.umap",
+				"C:/Projects - Unreal/onebitjam/Content/Player/PaintCharacter.uasset",
+				"C:/Projects - Unreal/onebitjam/Content/Player/PaintController.uasset",
+				"C:/Projects - Unreal/onebitjam/Content/Player/PaintMode.uasset",
+				"C:/Projects - Unreal/onebitjam/Content/Materials/M_PlayerSprite.uasset",
+				"C:/Projects - Unreal/onebitjam/Content/Materials/Texture/TEMP_Player.uasset",
 				"C:/Projects - Unreal/onebitjam/Content/Levels/TestLevel_HLOD0_Instancing.uasset",
 				"C:/Projects - Unreal/onebitjam/Content/__ExternalActors__/Levels/TestLevel/6/J4/WXF8QEUX3QL307LKGU0G7I.uasset",
 				"C:/Projects - Unreal/onebitjam/Content/__ExternalObjects__/Levels/TestLevel/7/LM/F6VU9KN2HN9KB23EFVOLIE.uasset",
@@ -71,8 +77,7 @@
 				"C:/Projects - Unreal/onebitjam/Content/__ExternalActors__/Levels/TestLevel/C/JD/JGT22HI8U1BQ09J9ARI2SQ.uasset",
 				"C:/Projects - Unreal/onebitjam/Content/__ExternalActors__/Levels/TestLevel/D/PV/X0D2E8CFABOWH7GBWISO2V.uasset",
 				"C:/Projects - Unreal/onebitjam/Content/__ExternalActors__/Levels/TestLevel/1/8P/XDGYG7GJBH9UPEY6O5TEP1.uasset",
-				"C:/Projects - Unreal/onebitjam/Content/Levels/TestLevel.umap",
-				"C:/Projects - Unreal/onebitjam/Content/Levels/NewWorld.umap"
+				"C:/Projects - Unreal/onebitjam/Content/Levels/TestLevel.umap"
 			]
 		}
 	]
