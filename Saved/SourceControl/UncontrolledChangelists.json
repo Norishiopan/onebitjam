@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/onebitjam/Content/Enemies/MasterEnemy.uasset",
+				"D:/GitHub/onebitjam/Content/Levels/NewWorld.umap",
+				"D:/GitHub/onebitjam/Content/Blueprints/BP_PaintBullet.uasset",
 				"C:/Projects - Unreal/onebitjam/Content/Levels/NewWorld.umap",
 				"C:/Projects - Unreal/onebitjam/Content/Player/PaintCharacter.uasset",
 				"C:/Projects - Unreal/onebitjam/Content/Player/PaintController.uasset",
